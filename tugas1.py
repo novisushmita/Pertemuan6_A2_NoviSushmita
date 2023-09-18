@@ -1,0 +1,6 @@
+nilai = set({3,6,9,2,5,7})
+print("suatu himpunan dengan anggota :")
+print(nilai)
+nilai.update({1,4,5,8,10})
+print("himpunan setelah ditambah beberapa anggota baru :")
+print(nilai)
